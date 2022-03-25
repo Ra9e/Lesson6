@@ -1,1 +1,3 @@
+CHANCHED FOR SECOND COMMIT
+
 Just lesson 6 readme
